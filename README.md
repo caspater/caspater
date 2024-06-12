@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 🖥 Full Stack Software Developer with special powers <br>
 - 💬 Ask me about **React, Vue, Laravel, .Net, System Architecture**<br>
-- 📫 How to reach me **mkapsata@gmail.com**<br>
 - ⚡ Fun fact: **It's always the little things**
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
